@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>sable.soot</groupId>
+  <artifactId>baksmali2</artifactId>
+  <versioning>
+    <release>2.0b5</release>
+    <versions>
+      <version>2.0b5</version>
+    </versions>
+    <lastUpdated>20131012164918</lastUpdated>
+  </versioning>
+</metadata>
